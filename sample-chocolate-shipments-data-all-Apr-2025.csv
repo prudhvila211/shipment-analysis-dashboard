@@ -1,4 +1,4 @@
-ShipmentID,SPID,PID,GID,Shipdate,Amount,Boxes,Order_Status
+﻿ShipmentID,SPID,PID,GID,Shipdate,Amount,Boxes,Order_Status
 S00000004,SP01,P14,G2,05-May-23,7107.75,285,Delivered
 S00000009,SP01,P14,G4,22-Aug-23,8664.75,377,Cancelled
 S00000013,SP01,P14,G6,23-Oct-23,2346.75,103,Delivered
