@@ -6,6 +6,9 @@
 
 This Power BI project provides an interactive and insightful dashboard for analyzing shipment data. It was developed as part of my self-learning journey to strengthen my skills in data modeling, DAX, and data visualization. The goal was to build a robust reporting solution that tracks shipment performance across locations, product categories, and sales personnel over time.
 
+📁[Download powerBi Dashboard(.pbix)] (https://github.com/prudhvila211/shipment-analysis-dashboard/raw/refs/heads/main/chocolate.pbix)
+
+
 
 ## 🧱 Data Model Design
 
@@ -47,6 +50,5 @@ Dynamic filters enable users to interact with the report and drill down into spe
 - Using slicers and visuals to enhance user interactivity  
 - Creating KPI cards, bar/line charts, donut charts, and matrix views  
 - Designing a clean, functional layout that tells a story
-
 
 
